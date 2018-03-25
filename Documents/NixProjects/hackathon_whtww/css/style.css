@@ -26,20 +26,15 @@ img {
 	.div-nav {
 		text-align: right;
 		padding: 0px 10px 5px 10px;
-		height: 300px;
     	display: flex;
     	flex-direction: column-reverse;
-   		background: url("./img/dv.jpg");
-    	background-repeat: no-repeat;
-    	background-size: 70%;
-    	background-position-x: 160px;
     	margin-bottom: 100px;
 	}
 
-	.banner {
+	#mira-banner {
 		width: 80%;
-		display: block;
 		position: relative;
+		margin: 0 auto;
 	}	
 
 	.bot {
@@ -50,7 +45,7 @@ img {
 	.p-bot {
 		width: 100%;
 		margin-top: 20px;
-		font-size: 65px;
+		font-size: 60px;
 	}
 
 	#borda {
@@ -103,14 +98,14 @@ img {
 		margin: 0 auto;	
 	}
 
-	#pais {
+	#comunidades {
 		font-size: 50px;
 		color: #F2B7C6;
 		font-weight: bold;
 	}
 
 
-	.pais {
+	.comunidades {
 		background-color: #Fff;
 		width: 100%;
 		text-align: center;
@@ -118,7 +113,7 @@ img {
 		margin: 0 auto;	
 	}
 
-	.p-pais {
+	.p-comunidades {
 		width: 80%;
 		font-size: 20px;
 		line-height: 30px;
